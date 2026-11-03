@@ -1,0 +1,798 @@
+diff --git a/node_modules/react-native-drawer-layout/._LICENSE b/node_modules/react-native-drawer-layout/._LICENSE
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/._LICENSE differ
+diff --git a/node_modules/react-native-drawer-layout/._README.md b/node_modules/react-native-drawer-layout/._README.md
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/._README.md differ
+diff --git a/node_modules/react-native-drawer-layout/._lib b/node_modules/react-native-drawer-layout/._lib
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/._lib differ
+diff --git a/node_modules/react-native-drawer-layout/._package.json b/node_modules/react-native-drawer-layout/._package.json
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/._package.json differ
+diff --git a/node_modules/react-native-drawer-layout/._src b/node_modules/react-native-drawer-layout/._src
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/._src differ
+diff --git a/node_modules/react-native-drawer-layout/LICENSE b/node_modules/react-native-drawer-layout/LICENSE
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/README.md b/node_modules/react-native-drawer-layout/README.md
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/._module b/node_modules/react-native-drawer-layout/lib/._module
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/._module differ
+diff --git a/node_modules/react-native-drawer-layout/lib/._typescript b/node_modules/react-native-drawer-layout/lib/._typescript
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/._typescript differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/._index.js b/node_modules/react-native-drawer-layout/lib/module/._index.js
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/._index.js differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/._index.js.map b/node_modules/react-native-drawer-layout/lib/module/._index.js.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/._index.js.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/._package.json b/node_modules/react-native-drawer-layout/lib/module/._package.json
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/._package.json differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/._types.js b/node_modules/react-native-drawer-layout/lib/module/._types.js
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/._types.js differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/._types.js.map b/node_modules/react-native-drawer-layout/lib/module/._types.js.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/._types.js.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/._utils b/node_modules/react-native-drawer-layout/lib/module/._utils
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/._utils differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/._views b/node_modules/react-native-drawer-layout/lib/module/._views
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/._views differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/index.js b/node_modules/react-native-drawer-layout/lib/module/index.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/index.js.map b/node_modules/react-native-drawer-layout/lib/module/index.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/package.json b/node_modules/react-native-drawer-layout/lib/module/package.json
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/types.js b/node_modules/react-native-drawer-layout/lib/module/types.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/types.js.map b/node_modules/react-native-drawer-layout/lib/module/types.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/utils/._DrawerGestureContext.js b/node_modules/react-native-drawer-layout/lib/module/utils/._DrawerGestureContext.js
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/utils/._DrawerGestureContext.js differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/utils/._DrawerGestureContext.js.map b/node_modules/react-native-drawer-layout/lib/module/utils/._DrawerGestureContext.js.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/utils/._DrawerGestureContext.js.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/utils/._DrawerProgressContext.js b/node_modules/react-native-drawer-layout/lib/module/utils/._DrawerProgressContext.js
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/utils/._DrawerProgressContext.js differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/utils/._DrawerProgressContext.js.map b/node_modules/react-native-drawer-layout/lib/module/utils/._DrawerProgressContext.js.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/utils/._DrawerProgressContext.js.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/utils/._getDrawerWidth.js b/node_modules/react-native-drawer-layout/lib/module/utils/._getDrawerWidth.js
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/utils/._getDrawerWidth.js differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/utils/._getDrawerWidth.js.map b/node_modules/react-native-drawer-layout/lib/module/utils/._getDrawerWidth.js.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/utils/._getDrawerWidth.js.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/utils/._useDrawerProgress.js b/node_modules/react-native-drawer-layout/lib/module/utils/._useDrawerProgress.js
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/utils/._useDrawerProgress.js differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/utils/._useDrawerProgress.js.map b/node_modules/react-native-drawer-layout/lib/module/utils/._useDrawerProgress.js.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/utils/._useDrawerProgress.js.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/utils/._useFakeSharedValue.js b/node_modules/react-native-drawer-layout/lib/module/utils/._useFakeSharedValue.js
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/utils/._useFakeSharedValue.js differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/utils/._useFakeSharedValue.js.map b/node_modules/react-native-drawer-layout/lib/module/utils/._useFakeSharedValue.js.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/utils/._useFakeSharedValue.js.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/utils/DrawerGestureContext.js b/node_modules/react-native-drawer-layout/lib/module/utils/DrawerGestureContext.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/utils/DrawerGestureContext.js.map b/node_modules/react-native-drawer-layout/lib/module/utils/DrawerGestureContext.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/utils/DrawerProgressContext.js b/node_modules/react-native-drawer-layout/lib/module/utils/DrawerProgressContext.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/utils/DrawerProgressContext.js.map b/node_modules/react-native-drawer-layout/lib/module/utils/DrawerProgressContext.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/utils/getDrawerWidth.js b/node_modules/react-native-drawer-layout/lib/module/utils/getDrawerWidth.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/utils/getDrawerWidth.js.map b/node_modules/react-native-drawer-layout/lib/module/utils/getDrawerWidth.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/utils/useDrawerProgress.js b/node_modules/react-native-drawer-layout/lib/module/utils/useDrawerProgress.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/utils/useDrawerProgress.js.map b/node_modules/react-native-drawer-layout/lib/module/utils/useDrawerProgress.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/utils/useFakeSharedValue.js b/node_modules/react-native-drawer-layout/lib/module/utils/useFakeSharedValue.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/utils/useFakeSharedValue.js.map b/node_modules/react-native-drawer-layout/lib/module/utils/useFakeSharedValue.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/._Drawer.js b/node_modules/react-native-drawer-layout/lib/module/views/._Drawer.js
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/views/._Drawer.js differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/._Drawer.js.map b/node_modules/react-native-drawer-layout/lib/module/views/._Drawer.js.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/views/._Drawer.js.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/._Drawer.native.js b/node_modules/react-native-drawer-layout/lib/module/views/._Drawer.native.js
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/views/._Drawer.native.js differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/._Drawer.native.js.map b/node_modules/react-native-drawer-layout/lib/module/views/._Drawer.native.js.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/views/._Drawer.native.js.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandler.android.js b/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandler.android.js
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandler.android.js differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandler.android.js.map b/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandler.android.js.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandler.android.js.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandler.ios.js b/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandler.ios.js
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandler.ios.js differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandler.ios.js.map b/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandler.ios.js.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandler.ios.js.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandler.js b/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandler.js
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandler.js differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandler.js.map b/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandler.js.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandler.js.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandlerNative.js b/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandlerNative.js
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandlerNative.js differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandlerNative.js.map b/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandlerNative.js.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/views/._GestureHandlerNative.js.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/._InteractionManager.js b/node_modules/react-native-drawer-layout/lib/module/views/._InteractionManager.js
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/views/._InteractionManager.js differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/._InteractionManager.js.map b/node_modules/react-native-drawer-layout/lib/module/views/._InteractionManager.js.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/views/._InteractionManager.js.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/._InteractionManager.native.js b/node_modules/react-native-drawer-layout/lib/module/views/._InteractionManager.native.js
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/views/._InteractionManager.native.js differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/._InteractionManager.native.js.map b/node_modules/react-native-drawer-layout/lib/module/views/._InteractionManager.native.js.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/views/._InteractionManager.native.js.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/._Overlay.js b/node_modules/react-native-drawer-layout/lib/module/views/._Overlay.js
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/views/._Overlay.js differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/._Overlay.js.map b/node_modules/react-native-drawer-layout/lib/module/views/._Overlay.js.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/views/._Overlay.js.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/._Overlay.native.js b/node_modules/react-native-drawer-layout/lib/module/views/._Overlay.native.js
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/views/._Overlay.native.js differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/._Overlay.native.js.map b/node_modules/react-native-drawer-layout/lib/module/views/._Overlay.native.js.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/module/views/._Overlay.native.js.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/Drawer.js b/node_modules/react-native-drawer-layout/lib/module/views/Drawer.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/Drawer.js.map b/node_modules/react-native-drawer-layout/lib/module/views/Drawer.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/Drawer.native.js b/node_modules/react-native-drawer-layout/lib/module/views/Drawer.native.js
+old mode 100644
+new mode 100755
+index f463263..94b8bd6
+--- a/node_modules/react-native-drawer-layout/lib/module/views/Drawer.native.js
++++ b/node_modules/react-native-drawer-layout/lib/module/views/Drawer.native.js
+@@ -257,7 +257,7 @@ export function Drawer({
+         (drawerType === 'back' ? 0 : translateX.value) + (direction === 'rtl' ? drawerPosition === 'left' ? -distanceFromEdge : 0 : drawerPosition === 'left' ? 0 : distanceFromEdge)
+       }]
+     };
+-  }, [direction, drawerPosition, drawerType, drawerWidth, isHidden, layout.width, translateX]);
++  });
+   const contentAnimatedStyle = useAnimatedStyle(() => {
+     return {
+       // FIXME: Force Reanimated to commit to the shadow tree
+@@ -271,7 +271,7 @@ export function Drawer({
+         drawerType === 'front' ? 0 : translateX.value + drawerWidth * (drawerPosition === 'left' ? 1 : -1)
+       }]
+     };
+-  }, [drawerPosition, drawerType, drawerWidth, translateX]);
++  });
+   const progress = useDerivedValue(() => {
+     return drawerType === 'permanent' ? 1 : interpolate(translateX.value, [getDrawerTranslationX(false), getDrawerTranslationX(true)], [0, 1]);
+   });
+@@ -286,7 +286,7 @@ export function Drawer({
+     return {
+       accessibilityElementsHidden: hidden
+     };
+-  }, [drawerType, progress]);
++  });
+   const drawerContentAnimatedProps = useAnimatedProps(() => {
+     const hidden = drawerType !== 'permanent' && progress.value < 1 - PROGRESS_EPSILON;
+     if (Platform.OS === 'android') {
+@@ -298,7 +298,7 @@ export function Drawer({
+     return {
+       accessibilityElementsHidden: hidden
+     };
+-  }, [drawerType, progress]);
++  });
+   return /*#__PURE__*/_jsx(GestureHandlerRootView, {
+     style: [styles.container, style],
+     children: /*#__PURE__*/_jsx(DrawerProgressContext.Provider, {
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/Drawer.native.js.map b/node_modules/react-native-drawer-layout/lib/module/views/Drawer.native.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/GestureHandler.android.js b/node_modules/react-native-drawer-layout/lib/module/views/GestureHandler.android.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/GestureHandler.android.js.map b/node_modules/react-native-drawer-layout/lib/module/views/GestureHandler.android.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/GestureHandler.ios.js b/node_modules/react-native-drawer-layout/lib/module/views/GestureHandler.ios.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/GestureHandler.ios.js.map b/node_modules/react-native-drawer-layout/lib/module/views/GestureHandler.ios.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/GestureHandler.js b/node_modules/react-native-drawer-layout/lib/module/views/GestureHandler.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/GestureHandler.js.map b/node_modules/react-native-drawer-layout/lib/module/views/GestureHandler.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/GestureHandlerNative.js b/node_modules/react-native-drawer-layout/lib/module/views/GestureHandlerNative.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/GestureHandlerNative.js.map b/node_modules/react-native-drawer-layout/lib/module/views/GestureHandlerNative.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/InteractionManager.js b/node_modules/react-native-drawer-layout/lib/module/views/InteractionManager.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/InteractionManager.js.map b/node_modules/react-native-drawer-layout/lib/module/views/InteractionManager.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/InteractionManager.native.js b/node_modules/react-native-drawer-layout/lib/module/views/InteractionManager.native.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/InteractionManager.native.js.map b/node_modules/react-native-drawer-layout/lib/module/views/InteractionManager.native.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/Overlay.js b/node_modules/react-native-drawer-layout/lib/module/views/Overlay.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/Overlay.js.map b/node_modules/react-native-drawer-layout/lib/module/views/Overlay.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/Overlay.native.js b/node_modules/react-native-drawer-layout/lib/module/views/Overlay.native.js
+old mode 100644
+new mode 100755
+index 8925237..eab9e00
+--- a/node_modules/react-native-drawer-layout/lib/module/views/Overlay.native.js
++++ b/node_modules/react-native-drawer-layout/lib/module/views/Overlay.native.js
+@@ -15,14 +15,14 @@ export function Overlay({
+     return {
+       opacity: progress.value
+     };
+-  }, [progress]);
++  });
+   const animatedProps = useAnimatedProps(() => {
+     const active = progress.value > PROGRESS_EPSILON;
+     return {
+       pointerEvents: active ? 'auto' : 'none',
+       'aria-hidden': !active
+     };
+-  }, [progress]);
++  });
+   return /*#__PURE__*/_jsx(Animated.View, {
+     ...rest,
+     style: [StyleSheet.absoluteFill, styles.overlay, animatedStyle, style],
+diff --git a/node_modules/react-native-drawer-layout/lib/module/views/Overlay.native.js.map b/node_modules/react-native-drawer-layout/lib/module/views/Overlay.native.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/._package.json b/node_modules/react-native-drawer-layout/lib/typescript/._package.json
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/._package.json differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/._src b/node_modules/react-native-drawer-layout/lib/typescript/._src
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/._src differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/package.json b/node_modules/react-native-drawer-layout/lib/typescript/package.json
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/._index.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/._index.d.ts
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/._index.d.ts differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/._index.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/._index.d.ts.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/._index.d.ts.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/._types.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/._types.d.ts
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/._types.d.ts differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/._types.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/._types.d.ts.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/._types.d.ts.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/._utils b/node_modules/react-native-drawer-layout/lib/typescript/src/._utils
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/._utils differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/._views b/node_modules/react-native-drawer-layout/lib/typescript/src/._views
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/._views differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/index.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/index.d.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/index.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/index.d.ts.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/types.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/types.d.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/types.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/types.d.ts.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._DrawerGestureContext.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._DrawerGestureContext.d.ts
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._DrawerGestureContext.d.ts differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._DrawerGestureContext.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._DrawerGestureContext.d.ts.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._DrawerGestureContext.d.ts.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._DrawerProgressContext.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._DrawerProgressContext.d.ts
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._DrawerProgressContext.d.ts differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._DrawerProgressContext.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._DrawerProgressContext.d.ts.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._DrawerProgressContext.d.ts.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._getDrawerWidth.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._getDrawerWidth.d.ts
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._getDrawerWidth.d.ts differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._getDrawerWidth.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._getDrawerWidth.d.ts.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._getDrawerWidth.d.ts.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._useDrawerProgress.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._useDrawerProgress.d.ts
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._useDrawerProgress.d.ts differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._useDrawerProgress.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._useDrawerProgress.d.ts.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._useDrawerProgress.d.ts.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._useFakeSharedValue.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._useFakeSharedValue.d.ts
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._useFakeSharedValue.d.ts differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._useFakeSharedValue.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._useFakeSharedValue.d.ts.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/._useFakeSharedValue.d.ts.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/utils/DrawerGestureContext.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/DrawerGestureContext.d.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/utils/DrawerGestureContext.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/DrawerGestureContext.d.ts.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/utils/DrawerProgressContext.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/DrawerProgressContext.d.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/utils/DrawerProgressContext.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/DrawerProgressContext.d.ts.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/utils/getDrawerWidth.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/getDrawerWidth.d.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/utils/getDrawerWidth.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/getDrawerWidth.d.ts.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/utils/useDrawerProgress.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/useDrawerProgress.d.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/utils/useDrawerProgress.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/useDrawerProgress.d.ts.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/utils/useFakeSharedValue.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/useFakeSharedValue.d.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/utils/useFakeSharedValue.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/utils/useFakeSharedValue.d.ts.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Drawer.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Drawer.d.ts
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Drawer.d.ts differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Drawer.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Drawer.d.ts.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Drawer.d.ts.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Drawer.native.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Drawer.native.d.ts
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Drawer.native.d.ts differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Drawer.native.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Drawer.native.d.ts.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Drawer.native.d.ts.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandler.android.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandler.android.d.ts
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandler.android.d.ts differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandler.android.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandler.android.d.ts.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandler.android.d.ts.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandler.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandler.d.ts
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandler.d.ts differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandler.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandler.d.ts.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandler.d.ts.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandler.ios.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandler.ios.d.ts
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandler.ios.d.ts differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandler.ios.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandler.ios.d.ts.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandler.ios.d.ts.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandlerNative.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandlerNative.d.ts
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandlerNative.d.ts differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandlerNative.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandlerNative.d.ts.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._GestureHandlerNative.d.ts.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/._InteractionManager.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._InteractionManager.d.ts
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._InteractionManager.d.ts differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/._InteractionManager.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._InteractionManager.d.ts.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._InteractionManager.d.ts.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/._InteractionManager.native.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._InteractionManager.native.d.ts
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._InteractionManager.native.d.ts differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/._InteractionManager.native.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._InteractionManager.native.d.ts.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._InteractionManager.native.d.ts.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Overlay.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Overlay.d.ts
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Overlay.d.ts differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Overlay.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Overlay.d.ts.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Overlay.d.ts.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Overlay.native.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Overlay.native.d.ts
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Overlay.native.d.ts differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Overlay.native.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Overlay.native.d.ts.map
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/lib/typescript/src/views/._Overlay.native.d.ts.map differ
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/Drawer.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/views/Drawer.d.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/Drawer.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/views/Drawer.d.ts.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/Drawer.native.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/views/Drawer.native.d.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/Drawer.native.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/views/Drawer.native.d.ts.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/GestureHandler.android.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/views/GestureHandler.android.d.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/GestureHandler.android.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/views/GestureHandler.android.d.ts.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/GestureHandler.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/views/GestureHandler.d.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/GestureHandler.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/views/GestureHandler.d.ts.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/GestureHandler.ios.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/views/GestureHandler.ios.d.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/GestureHandler.ios.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/views/GestureHandler.ios.d.ts.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/GestureHandlerNative.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/views/GestureHandlerNative.d.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/GestureHandlerNative.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/views/GestureHandlerNative.d.ts.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/InteractionManager.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/views/InteractionManager.d.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/InteractionManager.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/views/InteractionManager.d.ts.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/InteractionManager.native.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/views/InteractionManager.native.d.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/InteractionManager.native.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/views/InteractionManager.native.d.ts.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/Overlay.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/views/Overlay.d.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/Overlay.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/views/Overlay.d.ts.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/Overlay.native.d.ts b/node_modules/react-native-drawer-layout/lib/typescript/src/views/Overlay.native.d.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/lib/typescript/src/views/Overlay.native.d.ts.map b/node_modules/react-native-drawer-layout/lib/typescript/src/views/Overlay.native.d.ts.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/src/._index.tsx b/node_modules/react-native-drawer-layout/src/._index.tsx
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/src/._index.tsx differ
+diff --git a/node_modules/react-native-drawer-layout/src/._types.tsx b/node_modules/react-native-drawer-layout/src/._types.tsx
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/src/._types.tsx differ
+diff --git a/node_modules/react-native-drawer-layout/src/._utils b/node_modules/react-native-drawer-layout/src/._utils
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/src/._utils differ
+diff --git a/node_modules/react-native-drawer-layout/src/._views b/node_modules/react-native-drawer-layout/src/._views
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/src/._views differ
+diff --git a/node_modules/react-native-drawer-layout/src/index.tsx b/node_modules/react-native-drawer-layout/src/index.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/src/types.tsx b/node_modules/react-native-drawer-layout/src/types.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/src/utils/._DrawerGestureContext.tsx b/node_modules/react-native-drawer-layout/src/utils/._DrawerGestureContext.tsx
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/src/utils/._DrawerGestureContext.tsx differ
+diff --git a/node_modules/react-native-drawer-layout/src/utils/._DrawerProgressContext.tsx b/node_modules/react-native-drawer-layout/src/utils/._DrawerProgressContext.tsx
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/src/utils/._DrawerProgressContext.tsx differ
+diff --git a/node_modules/react-native-drawer-layout/src/utils/._getDrawerWidth.tsx b/node_modules/react-native-drawer-layout/src/utils/._getDrawerWidth.tsx
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/src/utils/._getDrawerWidth.tsx differ
+diff --git a/node_modules/react-native-drawer-layout/src/utils/._useDrawerProgress.tsx b/node_modules/react-native-drawer-layout/src/utils/._useDrawerProgress.tsx
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/src/utils/._useDrawerProgress.tsx differ
+diff --git a/node_modules/react-native-drawer-layout/src/utils/._useFakeSharedValue.tsx b/node_modules/react-native-drawer-layout/src/utils/._useFakeSharedValue.tsx
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/src/utils/._useFakeSharedValue.tsx differ
+diff --git a/node_modules/react-native-drawer-layout/src/utils/DrawerGestureContext.tsx b/node_modules/react-native-drawer-layout/src/utils/DrawerGestureContext.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/src/utils/DrawerProgressContext.tsx b/node_modules/react-native-drawer-layout/src/utils/DrawerProgressContext.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/src/utils/getDrawerWidth.tsx b/node_modules/react-native-drawer-layout/src/utils/getDrawerWidth.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/src/utils/useDrawerProgress.tsx b/node_modules/react-native-drawer-layout/src/utils/useDrawerProgress.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/src/utils/useFakeSharedValue.tsx b/node_modules/react-native-drawer-layout/src/utils/useFakeSharedValue.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/src/views/._Drawer.native.tsx b/node_modules/react-native-drawer-layout/src/views/._Drawer.native.tsx
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/src/views/._Drawer.native.tsx differ
+diff --git a/node_modules/react-native-drawer-layout/src/views/._Drawer.tsx b/node_modules/react-native-drawer-layout/src/views/._Drawer.tsx
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/src/views/._Drawer.tsx differ
+diff --git a/node_modules/react-native-drawer-layout/src/views/._GestureHandler.android.tsx b/node_modules/react-native-drawer-layout/src/views/._GestureHandler.android.tsx
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/src/views/._GestureHandler.android.tsx differ
+diff --git a/node_modules/react-native-drawer-layout/src/views/._GestureHandler.ios.tsx b/node_modules/react-native-drawer-layout/src/views/._GestureHandler.ios.tsx
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/src/views/._GestureHandler.ios.tsx differ
+diff --git a/node_modules/react-native-drawer-layout/src/views/._GestureHandler.tsx b/node_modules/react-native-drawer-layout/src/views/._GestureHandler.tsx
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/src/views/._GestureHandler.tsx differ
+diff --git a/node_modules/react-native-drawer-layout/src/views/._GestureHandlerNative.tsx b/node_modules/react-native-drawer-layout/src/views/._GestureHandlerNative.tsx
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/src/views/._GestureHandlerNative.tsx differ
+diff --git a/node_modules/react-native-drawer-layout/src/views/._InteractionManager.native.tsx b/node_modules/react-native-drawer-layout/src/views/._InteractionManager.native.tsx
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/src/views/._InteractionManager.native.tsx differ
+diff --git a/node_modules/react-native-drawer-layout/src/views/._InteractionManager.tsx b/node_modules/react-native-drawer-layout/src/views/._InteractionManager.tsx
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/src/views/._InteractionManager.tsx differ
+diff --git a/node_modules/react-native-drawer-layout/src/views/._Overlay.native.tsx b/node_modules/react-native-drawer-layout/src/views/._Overlay.native.tsx
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/src/views/._Overlay.native.tsx differ
+diff --git a/node_modules/react-native-drawer-layout/src/views/._Overlay.tsx b/node_modules/react-native-drawer-layout/src/views/._Overlay.tsx
+new file mode 100755
+index 0000000..d03b5d5
+Binary files /dev/null and b/node_modules/react-native-drawer-layout/src/views/._Overlay.tsx differ
+diff --git a/node_modules/react-native-drawer-layout/src/views/Drawer.native.tsx b/node_modules/react-native-drawer-layout/src/views/Drawer.native.tsx
+old mode 100644
+new mode 100755
+index 0c3e038..f4c04f8
+--- a/node_modules/react-native-drawer-layout/src/views/Drawer.native.tsx
++++ b/node_modules/react-native-drawer-layout/src/views/Drawer.native.tsx
+@@ -412,15 +412,7 @@ export function Drawer({
+               },
+             ],
+     };
+-  }, [
+-    direction,
+-    drawerPosition,
+-    drawerType,
+-    drawerWidth,
+-    isHidden,
+-    layout.width,
+-    translateX,
+-  ]);
++  });
+ 
+   const contentAnimatedStyle = useAnimatedStyle(() => {
+     return {
+@@ -442,7 +434,7 @@ export function Drawer({
+               },
+             ],
+     };
+-  }, [drawerPosition, drawerType, drawerWidth, translateX]);
++  });
+ 
+   const progress = useDerivedValue(() => {
+     return drawerType === 'permanent'
+@@ -466,7 +458,7 @@ export function Drawer({
+     }
+ 
+     return { accessibilityElementsHidden: hidden };
+-  }, [drawerType, progress]);
++  });
+ 
+   const drawerContentAnimatedProps = useAnimatedProps<ViewProps>(() => {
+     const hidden =
+@@ -480,7 +472,7 @@ export function Drawer({
+     }
+ 
+     return { accessibilityElementsHidden: hidden };
+-  }, [drawerType, progress]);
++  });
+ 
+   return (
+     <GestureHandlerRootView style={[styles.container, style]}>
+diff --git a/node_modules/react-native-drawer-layout/src/views/Drawer.tsx b/node_modules/react-native-drawer-layout/src/views/Drawer.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/src/views/GestureHandler.android.tsx b/node_modules/react-native-drawer-layout/src/views/GestureHandler.android.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/src/views/GestureHandler.ios.tsx b/node_modules/react-native-drawer-layout/src/views/GestureHandler.ios.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/src/views/GestureHandler.tsx b/node_modules/react-native-drawer-layout/src/views/GestureHandler.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/src/views/GestureHandlerNative.tsx b/node_modules/react-native-drawer-layout/src/views/GestureHandlerNative.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/src/views/InteractionManager.native.tsx b/node_modules/react-native-drawer-layout/src/views/InteractionManager.native.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/src/views/InteractionManager.tsx b/node_modules/react-native-drawer-layout/src/views/InteractionManager.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/react-native-drawer-layout/src/views/Overlay.native.tsx b/node_modules/react-native-drawer-layout/src/views/Overlay.native.tsx
+old mode 100644
+new mode 100755
+index 56758f5..fdcfba7
+--- a/node_modules/react-native-drawer-layout/src/views/Overlay.native.tsx
++++ b/node_modules/react-native-drawer-layout/src/views/Overlay.native.tsx
+@@ -19,7 +19,7 @@ export function Overlay({
+     return {
+       opacity: progress.value,
+     };
+-  }, [progress]);
++  });
+ 
+   const animatedProps = useAnimatedProps(() => {
+     const active = progress.value > PROGRESS_EPSILON;
+@@ -28,7 +28,7 @@ export function Overlay({
+       pointerEvents: active ? 'auto' : 'none',
+       'aria-hidden': !active,
+     } as const;
+-  }, [progress]);
++  });
+ 
+   return (
+     <Animated.View
+diff --git a/node_modules/react-native-drawer-layout/src/views/Overlay.tsx b/node_modules/react-native-drawer-layout/src/views/Overlay.tsx
+old mode 100644
+new mode 100755
